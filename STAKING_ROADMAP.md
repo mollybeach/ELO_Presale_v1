@@ -2,9 +2,18 @@
 
 ## Staking Feature Roadmap
 
-### Overview
+## Overview
 
-Integrate staking functionality into the existing web3 project to allow users to stake Ethereum and earn rewards.
+Integrate staking functionality into the existing ecosystem in ELO_Presale_V1. The project enables users to stake Ethereum (ETH) tokens and earn rewards through a structured staking mechanism. This repository outlines a comprehensive roadmap and development plan to achieve seamless integration of staking features across backend, frontend, and smart contract layers.
+
+### Features
+- **Smart Contract Development**: Update existing contracts (`elotoken.sol` and `elotoken_presale.sol`) to implement staking logic and reward distribution.
+- **Backend Integration**: Enhance Node.js backend to support staking operations with new API endpoints and database schema updates.
+- **Frontend Development**: Develop user-friendly interfaces (React components) for staking operations, integrating with Web3.js for smart contract interaction.
+- **Testing**: Rigorous testing across all layers to ensure robustness and functionality of the staking feature.
+- **Deployment and Security**: Prepare for deployment on Ethereum testnet and mainnet, focusing on security audits and optimization for efficient gas usage.
+- **User Documentation and Support**: Provide comprehensive guides and support materials for users to understand and utilize the staking functionality effectively.
+- **Maintenance and Future Enhancements**: Continuous monitoring and improvement plans post-deployment, including potential governance features and additional staking pools.
 
 ### Step-by-Step Roadmap
 
